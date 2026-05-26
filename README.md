@@ -1,72 +1,53 @@
-# 👋 Matheus Santos
+# Olá, eu sou o Matheus Santos 👋
 
-🎯 SOC Analyst em formação | Blue Team  
-🔐 Foco em Cibersegurança, análise de logs e detecção de ameaças  
-🐍 Python • 🐧 Linux • 🌐 Redes  
-
----
-
-## 📊 GitHub Dashboard
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mttsdev&show_icons=true&title_color=00ff9a&text_color=a8ffdc&icon_color=00c97a&bg_color=0d1117&border_color=003b2f" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mttsdev&layout=compact&theme=tokyonight" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mttsdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Matheus" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mttsdev&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180px"/>
+</div>
 
 ---
 
-## 🧠 Sobre mim
+### 🚀 Sobre Mim
+Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva (Blue Team)** e transição de carreira voltada para operações de **SOC (Security Operations Center)** e **Suporte Técnico Avançado**. Acredito em uma segurança ágil, fundamentada em automação e com foco em um atendimento humanizado para a resolução de incidentes.
 
-Sou estudante de tecnologia com foco em **cibersegurança defensiva (Blue Team)**.
-
-Atualmente estou desenvolvendo habilidades em:
-- Análise de logs e eventos de segurança
-- Fundamentos de redes e protocolos
-- Automação com Python
-- Uso de Linux em ambiente técnico
-
-Meu objetivo é atuar como **SOC Analyst**, trabalhando na detecção, análise e resposta a incidentes de segurança.
+- 🎓 Graduando em **Ciência da Computação** pela FMU (Conclusão: 12/2029)
+- 🛡️ Formação em **Cibersegurança** pela Alura
+- 🐍 Atualmente focado em: **Python para Automação de Segurança** e criação de laboratórios práticos.
+- 📰 Leitor diário do *The Hacker News* para inteligência de ameaças (Threat Intelligence).
 
 ---
 
-## 🧰 Stack atual
+### 🛠️ Tecnologias e Ferramentas
 
-🟢 Python  
-🐧 Linux (terminal & administração básica)  
-🌐 Redes (TCP/IP, DNS, HTTP)  
-🔐 Segurança da informação (conceitos SOC)  
-🛠 Git & GitHub  
+**Cibersegurança & Defesa:**
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004080?style=for-the-badge&logo=nmap&logoColor=white)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-6F4E37?style=for-the-badge&logo=linux&logoColor=white)
 
----
+**Sistemas & Infraestrutura:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Arduino / IoT](https://img.shields.io/badge/Arduino_IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-## 🚀 Projetos em destaque
-
-### 🔍 Simulação de Brute force
-Simulei um brute Force, conhecendo como o ataque funciona e impedindo ele com o fail2ban.
-<img width="500px" height="900px" src="https://media.licdn.com/dms/image/v2/D4D2DAQH1k67JOKI-Yg/profile-treasury-image-shrink_1280_1280/B4DZ2Q0Ey2JgAQ-/0/1776251064296?e=1777518000&v=beta&t=Q1gcas36rpciwbwgsh-7q90KIg7MYk7m2EwewOFhgxs" />
-
-### 🌐 Network Study Labs
-Simulações e estudos práticos sobre redes e tráfego.
-
-### 🧪 Security Scripts
-Pequenos scripts voltados para automação e segurança em Linux.
+**Desenvolvimento & Automação:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 📈 Atividade
+### 🧪 Laboratórios em Destaque (SOC & Defesa)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Contato
-
-- LinkedIn: SEU_LINK  
-- Email: SEU_EMAIL  
+*   **[Simulação de Brute Force & SIEM Splunk](#)**: Laboratório focado em ataque SSH (Hydra), análise de logs brutos (`auth.log`), mitigação com Fail2Ban e criação de Dashboards analíticos dentro do Splunk.
+*   **[Análise de Tráfego e Redes](#)**: Diagnóstico e inspeção de pacotes suspeitos utilizando Wireshark e varreduras de rede com Nmap.
+*   **[Automação e Diagnóstico Windows](#)**: Scripts e intervenções intermediárias em serviços do ecossistema Windows 10/11 para mitigação e manutenção preventiva.
 
 ---
 
-💡 “Segurança não é um produto, é um processo.”
+### 🤝 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-b747a6367/)
+[![Meu Portfólio](https://img.shields.io/badge/Meu_Portfólio-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://mttsdev.github.io/Portfolio/)
+
