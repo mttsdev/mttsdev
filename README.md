@@ -1,10 +1,5 @@
 # Olá, eu sou o Matheus Santos 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mttsdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Matheus" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mttsdev&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="180px"/>
-</div>
-
 ---
 
 ### 🚀 Sobre Mim
@@ -40,9 +35,9 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
 
 ### 🧪 Laboratórios em Destaque (SOC & Defesa)
 
-*   **[Simulação de Brute Force & SIEM Splunk](#)**: Laboratório focado em ataque SSH (Hydra), análise de logs brutos (`auth.log`), mitigação com Fail2Ban e criação de Dashboards analíticos dentro do Splunk.
-*   **[Análise de Tráfego e Redes](#)**: Diagnóstico e inspeção de pacotes suspeitos utilizando Wireshark e varreduras de rede com Nmap.
-*   **[Automação e Diagnóstico Windows](#)**: Scripts e intervenções intermediárias em serviços do ecossistema Windows 10/11 para mitigação e manutenção preventiva.
+*   **Simulação de Brute Force & SIEM Splunk**: Laboratório focado em ataque SSH (Hydra), análise de logs brutos (`auth.log`), mitigação com Fail2Ban e criação de Dashboards analíticos dentro do Splunk.
+*   **Análise de Tráfego e Redes**: Diagnóstico e inspeção de pacotes suspeitos utilizando Wireshark e varreduras de rede com Nmap.
+*   **Automação e Diagnóstico Windows**: Scripts e intervenções intermediárias em serviços do ecossistema Windows 10/11 para mitigação e manutenção preventiva.
 
 ---
 
@@ -50,4 +45,3 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-b747a6367/)
 [![Meu Portfólio](https://img.shields.io/badge/Meu_Portfólio-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://mttsdev.github.io/Portfolio/)
-
