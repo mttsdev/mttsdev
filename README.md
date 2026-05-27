@@ -1,5 +1,9 @@
 # Olá, eu sou o Matheus Santos 👋
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mttsdev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mttsdev&layout=compact&theme=tokyonight&hide_border=true)
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -20,12 +24,6 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mttsdev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mttsdev&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
