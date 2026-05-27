@@ -1,5 +1,9 @@
 # Olá, eu sou o Matheus Santos 👋
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mttsdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mttsdev&layout=compact&theme=tokyonight)
+
 ---
 
 ### 🚀 Sobre Mim
