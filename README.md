@@ -1,19 +1,5 @@
 # Olá, eu sou o Matheus Santos 👋
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mttsdev&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mttsdev&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🚀 Sobre Mim
-Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva (Blue Team)** e transição de carreira voltada para operações de **SOC (Security Operations Center)** e **Suporte Técnico Avançado**. Acredito em uma segurança ágil, fundamentada em automação e com foco em um atendimento humanizado para a resolução de incidentes.
-
-- 🎓 Graduando em **Ciência da Computação** pela FMU (Conclusão: 12/2029)
-- 🛡️ Formação em **Cibersegurança** pela Alura
-- 🐍 Atualmente focado em: **Python para Automação de Segurança** e criação de laboratórios práticos.
-- 📰 Leitor diário do *The Hacker News* para inteligência de ameaças (Threat Intelligence).
-
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -34,6 +20,22 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mttsdev&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mttsdev&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🚀 Sobre Mim
+Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva (Blue Team)** e transição de carreira voltada para operações de **SOC (Security Operations Center)** e **Suporte Técnico Avançado**. Acredito em uma segurança ágil, fundamentada em automação e com foco em um atendimento humanizado para a resolução de incidentes.
+
+- 🎓 Graduando em **Ciência da Computação** pela FMU (Conclusão: 12/2029)
+- 🛡️ Formação em **Cibersegurança** pela Alura
+- 🐍 Atualmente focado em: **Python para Automação de Segurança** e criação de laboratórios práticos.
+- 📰 Leitor diário do *The Hacker News* para inteligência de ameaças (Threat Intelligence).
 
 ---
 
