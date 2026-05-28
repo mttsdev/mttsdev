@@ -2,8 +2,6 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mttsdev)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🛠️ Tecnologias e Ferramentas
 
 **Cibersegurança & Defesa:**
@@ -40,6 +38,25 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
 *   **Simulação de Brute Force & SIEM Splunk**: Laboratório focado em ataque SSH (Hydra), análise de logs brutos (`auth.log`), mitigação com Fail2Ban e criação de Dashboards analíticos dentro do Splunk.
 *   **Análise de Tráfego e Redes**: Diagnóstico e inspeção de pacotes suspeitos utilizando Wireshark e varreduras de rede com Nmap.
 *   **Automação e Diagnóstico Windows**: Scripts e intervenções intermediárias em serviços do ecossistema Windows 10/11 para mitigação e manutenção preventiva.
+
+---
+
+### 📊 Desempenho & Atividade
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mttsdev">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mttsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas Gerais de mttsdev" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mttsdev">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mttsdev&theme=dracula&layout=compact&hide=html,css&hide_border=true" alt="Linguagens Mais Usadas por mttsdev" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
