@@ -2,25 +2,8 @@
 
 ---
 
-<!-- Seção de Estatísticas e Desempenho -->
-<h3 align="left">📊 Minhas Estatísticas do GitHub</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<table align="center" width="100%">
-  <tr>
-    <!-- Card de Estatísticas Gerais (Lado Esquerdo) -->
-    <td align="center" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mttsdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=8" alt="Estatísticas Gerais do GitHub" />
-      </a>
-    </td>
-    <!-- Card de Linguagens Mais Usadas (Lado Direito) -->
-    <td align="center" width="50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mttsdev&theme=tokyonight&layout=compact&hide=html,css&hide_border=false&border_radius=8" alt="Linguagens Mais Usadas" />
-      </a>
-    </td>
-  </tr>
-</table>
 ### 🛠️ Tecnologias e Ferramentas
 
 **Cibersegurança & Defesa:**
