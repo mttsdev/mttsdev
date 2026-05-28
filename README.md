@@ -4,7 +4,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mttsdev)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mttsdev&layout=compact)
 
 **Cibersegurança & Defesa:**
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=green)
