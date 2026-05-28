@@ -4,6 +4,8 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mttsdev)
+
 **Cibersegurança & Defesa:**
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=green)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
