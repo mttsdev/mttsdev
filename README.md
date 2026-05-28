@@ -1,10 +1,8 @@
-# Olá, eu sou o Matheus Santos 👋
+# Sobre mim
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=mttsdev&layout=compact)
 
 **Cibersegurança & Defesa:**
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=green)
