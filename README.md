@@ -5,7 +5,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 **Cibersegurança & Defesa:**
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=green)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004080?style=for-the-badge&logo=nmap&logoColor=white)
 ![Fail2Ban](https://img.shields.io/badge/Fail2Ban-6F4E37?style=for-the-badge&logo=linux&logoColor=white)
