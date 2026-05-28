@@ -47,12 +47,12 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/mttsdev">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mttsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas Gerais de mttsdev" />
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mttsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas Gerais de mttsdev" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/mttsdev">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mttsdev&theme=dracula&layout=compact&hide=html,css&hide_border=true" alt="Linguagens Mais Usadas por mttsdev" />
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mttsdev&theme=dracula&layout=compact&hide=html,css&hide_border=true" alt="Linguagens Mais Usadas por mttsdev" />
       </a>
     </td>
   </tr>
