@@ -61,16 +61,6 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
   </tr>
 </table>
 
-</table>
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/mttsdev">
-        <img src="https://raw.githubusercontent.com/mttsdev/mttsdev/output/snake.svg" />
-      </a>
-    </td>
-  </tr>
-</table>
 ---
 
 ### Rede Social e outros
