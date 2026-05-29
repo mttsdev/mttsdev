@@ -25,7 +25,6 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
 
 -  Graduando em **Ciência da Computação** pela FMU (Conclusão: 12/2029)
 -  Formação em **Cibersegurança** pela Alura
--  Atualmente focado em: **Construção de um mini-edr** e implementação de playbooks.
 -  Leitor diário do *The Hacker News* para conhecimento do mundo de cibersegurança e evolução de ataques.
 
 ---
