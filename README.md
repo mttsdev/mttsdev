@@ -25,14 +25,14 @@
 ### 🚀 Sobre Mim
 Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva (Blue Team)** e transição de carreira voltada para operações de **SOC (Security Operations Center)** e **Suporte Técnico Avançado**. Acredito em uma segurança ágil, fundamentada em automação e com foco em um atendimento humanizado para a resolução de incidentes.
 
-- 🎓 Graduando em **Ciência da Computação** pela FMU (Conclusão: 12/2029)
-- 🛡️ Formação em **Cibersegurança** pela Alura
-- 🐍 Atualmente focado em: **Python para Automação de Segurança** e criação de laboratórios práticos.
-- 📰 Leitor diário do *The Hacker News* para inteligência de ameaças (Threat Intelligence).
+-  Graduando em **Ciência da Computação** pela FMU (Conclusão: 12/2029)
+-  Formação em **Cibersegurança** pela Alura
+-  Atualmente focado em: **Python para Automação de Segurança** e criação de laboratórios práticos.
+-  Leitor diário do *The Hacker News* para conhecimento do mundo de cibersegurança e evolução de ataques.
 
 ---
 
-### 🧪 Laboratórios em Destaque (SOC & Defesa)
+### Laboratórios em Destaque (SOC & Defesa)
 
 *   **Simulação de Brute Force & SIEM Splunk**: Laboratório focado em ataque SSH com Hydra, análise de logs brutos (`auth.log`), mitigação com Fail2Ban e criação de Dashboards analíticos dentro do Splunk.
 *   **Análise de Tráfego e Redes**: Diagnóstico e inspeção de pacotes suspeitos utilizando Wireshark e varreduras de rede com Nmap.
@@ -61,6 +61,16 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
   </tr>
 </table>
 
+</table>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/mttsdev">
+        <img src="https://raw.githubusercontent.com/mttsdev/mttsdev/output/snake.svg" />
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ### Rede Social e outros
