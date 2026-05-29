@@ -8,16 +8,15 @@
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=green)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004080?style=for-the-badge&logo=nmap&logoColor=white)
-![Fail2Ban](https://img.shields.io/badge/Fail2Ban-6F4E37?style=for-the-badge&logo=linux&logoColor=white)
 
 **Sistemas & Infraestrutura:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux (Ubuntu)](https://img.shields.io/badge/Linux_(Ubuntu)-fff500?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
-![Arduino / IoT](https://img.shields.io/badge/Arduino_IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino / IoT](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 **Desenvolvimento & Automação:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/BashScripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash_Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -35,9 +34,9 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
 
 ### 🧪 Laboratórios em Destaque (SOC & Defesa)
 
-*   **Simulação de Brute Force & SIEM Splunk**: Laboratório focado em ataque SSH (Hydra), análise de logs brutos (`auth.log`), mitigação com Fail2Ban e criação de Dashboards analíticos dentro do Splunk.
+*   **Simulação de Brute Force & SIEM Splunk**: Laboratório focado em ataque SSH com Hydra, análise de logs brutos (`auth.log`), mitigação com Fail2Ban e criação de Dashboards analíticos dentro do Splunk.
 *   **Análise de Tráfego e Redes**: Diagnóstico e inspeção de pacotes suspeitos utilizando Wireshark e varreduras de rede com Nmap.
-*   **Automação e Diagnóstico Windows**: Scripts e intervenções intermediárias em serviços do ecossistema Windows 10/11 para mitigação e manutenção preventiva.
+*   **Automação e Diagnóstico Windows**: Scripts e intervenções intermediárias em serviços do ecossistema Windows 10/11 para mitigação e manutenção preventiva. 
 
 ---
 
@@ -60,7 +59,7 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
 
 ---
 
-### 🤝 Conecte-se Comigo
+### Rede Social e outros
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-b747a6367/)
 [![Meu Portfólio](https://img.shields.io/badge/Meu_Portfólio-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://mttsdev.github.io/Portfolio/)
