@@ -1,7 +1,5 @@
 # Sobre mim
 
----
-
 ### 🛠️ Tecnologias e Ferramentas
 
 **Cibersegurança & Defesa:**<br>
