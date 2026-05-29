@@ -1,6 +1,6 @@
 # Sobre mim
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 **Cibersegurança & Defesa:**<br>
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=green)
@@ -20,12 +20,12 @@
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva (Blue Team)** e transição de carreira voltada para operações de **SOC (Security Operations Center)** e **Suporte Técnico Avançado**. Acredito em uma segurança ágil, fundamentada em automação e com foco em um atendimento humanizado para a resolução de incidentes.
 
 -  Graduando em **Ciência da Computação** pela FMU (Conclusão: 12/2029)
 -  Formação em **Cibersegurança** pela Alura
--  Atualmente focado em: **Python para Automação de Segurança** e criação de laboratórios práticos.
+-  Atualmente focado em: **Construção de um mini-edr** e implementação de playbooks.
 -  Leitor diário do *The Hacker News* para conhecimento do mundo de cibersegurança e evolução de ataques.
 
 ---
@@ -38,7 +38,7 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
 
 ---
 
-### 📊 Desempenho & Atividade
+### Desempenho & Atividade
 
 <table align="center" width="100%">
   <tr>
