@@ -44,7 +44,7 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/mttsdev">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mttsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas Gerais de mttsdev" />
+        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mttsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas de mttsdev" />
       </a>
     </td>
   </tr>
@@ -63,5 +63,5 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
 
 ### Rede Social e outros
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-b747a6367/)
-[![Meu Portfólio](https://img.shields.io/badge/Meu_Portfólio-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://mttsdev.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-b747a6367/)<br>
+[![Meu Portfólio](https://img.shields.io/badge/Meu_Portfólio-006400?style=for-the-badge)](https://mttsdev.github.io/Portfolio/)
