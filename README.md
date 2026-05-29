@@ -4,17 +4,17 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Cibersegurança & Defesa:**
+**Cibersegurança & Defesa:**<br>
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=green)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004080?style=for-the-badge&logo=nmap&logoColor=white)
 
-**Sistemas & Infraestrutura:**
-![Linux (Ubuntu)](https://img.shields.io/badge/Linux_(Ubuntu)-fff500?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+**Sistemas & Infraestrutura:**<br>
+![Linux (Ubuntu)](https://img.shields.io/badge/Linux_(Ubuntu)-ff5500?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Kali_Linux-0078D6?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Arduino / IoT](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-**Desenvolvimento & Automação:**
+**Desenvolvimento & Automação:**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash_Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
