@@ -1,5 +1,14 @@
 # Sobre mim
 
+### Sobre Mim
+Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva (Blue Team)** e transição de carreira voltada para operações de **SOC (Security Operations Center)** e **Suporte Técnico**. Acredito em uma segurança ágil, fundamentada em automação e com foco em um atendimento humanizado para a resolução de incidentes.
+
+-  Graduando em **Ciência da Computação** pela FMU (Conclusão: 12/2029)
+-  Formação em **Cibersegurança** pela Alura
+-  Leitor diário do *The Hacker News* para conhecimento do mundo de cibersegurança e evolução de ataques.
+
+---
+
 ### Tecnologias e Ferramentas
 
 **Cibersegurança & Defesa:**<br>
@@ -20,20 +29,13 @@
 
 ---
 
-### Sobre Mim
-Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva (Blue Team)** e transição de carreira voltada para operações de **SOC (Security Operations Center)** e **Suporte Técnico Avançado**. Acredito em uma segurança ágil, fundamentada em automação e com foco em um atendimento humanizado para a resolução de incidentes.
+### Projetos
 
--  Graduando em **Ciência da Computação** pela FMU (Conclusão: 12/2029)
--  Formação em **Cibersegurança** pela Alura
--  Leitor diário do *The Hacker News* para conhecimento do mundo de cibersegurança e evolução de ataques.
+[![Simulação de Brute Force & SIEM Splunk](https://img.shields.io/badge/Simulação_de_Brute_Force_%26_SIEM_Splunk-C1272D?style=for-the-badge&logo=Splunk&logoColor=white)](LINK_DO_SEU_REPOSITORIO_SPLUNK)
 
----
+[![Varreduras de Portas com Nmap](https://img.shields.io/badge/Varreduras_de_Portas_com_Nmap-005FB8?style=for-the-badge&logo=kali-linux&logoColor=white)](https://github.com/mttsdev/Varredura-de-portas-com-nmap)
 
-### Laboratórios em Destaque (SOC & Defesa)
-
-*   **Simulação de Brute Force & SIEM Splunk**: Laboratório focado em ataque SSH com Hydra, análise de logs brutos (`auth.log`), mitigação com Fail2Ban e criação de Dashboards analíticos dentro do Splunk.
-*   **Varredura de Portas com Nmap**: Decodificando a mentalidade do atacante durante a fase de reconhecimento e mapeamento de vulnerabilidades.
-*   **Automação e Diagnóstico Windows**: Scripts e intervenções intermediárias em serviços do ecossistema Windows 10/11 para mitigação e manutenção preventiva.
+[![Limpeza de Hardware](https://img.shields.io/badge/Limpeza_de_Hardware-4A5568?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mttsdev/limpeza-hardware)
 
 ---
 
@@ -43,16 +45,12 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/mttsdev">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mttsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas de mttsdev" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mttsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas de mttsdev" />
       </a>
     </td>
-  </tr>
-</table>
-<table align="center" width="100%">
-  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/mttsdev">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mttsdev&theme=dracula&hide=php&layout=compact&hide_border=true" alt="Linguagens Mais Usadas por mttsdev" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mttsdev&theme=dracula&hide=php&layout=compact&hide_border=true" alt="Linguagens Mais Usadas por mttsdev" />
       </a>
     </td>
   </tr>
