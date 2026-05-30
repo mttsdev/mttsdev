@@ -31,7 +31,7 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
 
 ### Projetos
 
-[![Simulação de Brute Force & SIEM Splunk](https://img.shields.io/badge/Simulação_de_Brute_Force_%26_SIEM_Splunk-C1272D?style=for-the-badge&logo=Splunk&logoColor=white)](LINK_DO_SEU_REPOSITORIO_SPLUNK)
+[![Simulação de Brute Force & SIEM Splunk](https://img.shields.io/badge/Simulação_de_Brute_Force_%26_Visualização_no_SIEM-C1272D?style=for-the-badge&logo=Splunk&logoColor=white)](LINK_DO_SEU_REPOSITORIO_SPLUNK)
 
 [![Varreduras de Portas com Nmap](https://img.shields.io/badge/Varreduras_de_Portas_com_Nmap-005FB8?style=for-the-badge&logo=kali-linux&logoColor=white)](https://github.com/mttsdev/Varredura-de-portas-com-nmap)
 
