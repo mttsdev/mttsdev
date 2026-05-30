@@ -32,7 +32,7 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
 ### Laboratórios em Destaque (SOC & Defesa)
 
 *   **Simulação de Brute Force & SIEM Splunk**: Laboratório focado em ataque SSH com Hydra, análise de logs brutos (`auth.log`), mitigação com Fail2Ban e criação de Dashboards analíticos dentro do Splunk.
-*   **Varredura de Portas com Nmap**: Varreduras de Portas com Nmap.
+*   **Varredura de Portas com Nmap**: Decodificando a mentalidade do atacante durante a fase de reconhecimento e mapeamento de vulnerabilidades.
 *   **Automação e Diagnóstico Windows**: Scripts e intervenções intermediárias em serviços do ecossistema Windows 10/11 para mitigação e manutenção preventiva.
 
 ---
