@@ -1,7 +1,7 @@
 # Sobre mim
 
 ### Sobre Mim
-Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva (Blue Team)** e transição de carreira voltada para operações de **SOC (Security Operations Center)** e **Suporte Técnico**. Acredito em uma segurança ágil, fundamentada em automação e com foco em um atendimento humanizado para a resolução de incidentes.
+Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e transição de carreira voltada para operações de **SOC Analyst N1** e **Suporte Técnico**. Acredito em uma segurança ágil, fundamentada em automação e com foco em um atendimento humanizado para a resolução de incidentes.
 
 -  Graduando em **Ciência da Computação** pela FMU (Conclusão: 12/2029)
 -  Formação em **Cibersegurança** pela Alura
@@ -37,9 +37,13 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
 
 [![Limpeza de Hardware](https://img.shields.io/badge/Limpeza_de_Hardware-4A5568?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mttsdev/limpeza-hardware)
 
+[![Carrinho movido a Bluetooth feito no Arduino](https://img.shields.io/badge/Carrinho_movido_a_Bluetooth_feito_no_Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/mttsdev/Carrinho-Bluetooth)
+
+[![Scripts](https://img.shields.io/badge/Scripts-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/mttsdev/Bash-Scripting)
+
 ---
 
-### 📚 Trilha de Estudos
+### Minha Trilha de Estudos
 
 [![HTML5 & CSS3](https://img.shields.io/badge/HTML5_%26_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mttsdev/html-css)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/mttsdev/Python)
