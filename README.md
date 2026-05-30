@@ -39,22 +39,29 @@ Sou estudante de **Ciência da Computação** com foco em **Segurança Defensiva
 
 ---
 
+### 📚 Trilha de Estudos
+
+[![HTML5 & CSS3](https://img.shields.io/badge/HTML5_%26_CSS3-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/mttsdev/html-css)
+[![Python](https://img.shields.io/badge/Python-00008B?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/mttsdev/html-Python)
+
+---
+
 ### Desempenho & Atividade
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/mttsdev">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mttsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas de mttsdev" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/mttsdev">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mttsdev&theme=dracula&hide=php&layout=compact&hide_border=true" alt="Linguagens Mais Usadas por mttsdev" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/mttsdev">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mttsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas de mttsdev" height="195px" />
+  </a>
+  <a href="https://github.com/mttsdev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mttsdev&theme=dracula&hide_border=true" alt="Streak de Contribuições de mttsdev" height="195px" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/mttsdev">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mttsdev&theme=dracula&hide=php&hide_border=true" alt="Linguagens Mais Usadas por mttsdev" height="195px" />
+  </a>
+</div>
 
 ---
 
