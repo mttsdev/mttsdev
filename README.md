@@ -14,7 +14,6 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 **Cibersegurança & Defesa:**<br>
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=green)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004080?style=for-the-badge&logo=nmap&logoColor=white)
 
 **Sistemas & Infraestrutura:**<br>
 ![Linux (Ubuntu)](https://img.shields.io/badge/Linux_(Ubuntu)-ff5500?style=for-the-badge&logo=ubuntu&logoColor=white)
