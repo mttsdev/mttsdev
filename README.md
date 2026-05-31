@@ -66,7 +66,7 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
   <br><br>
 
   <a href="https://github.com/mttsdev">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mttsdev&theme=dracula&hide=php&hide_border=true" alt="Linguagens Mais Usadas por mttsdev" height="195px" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mttsdev&theme=dracula&hide=php&hide_border=true" alt="Linguagens Mais Usadas por mttsdev" height="355px" />
   </a>
 </div>
 
