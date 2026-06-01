@@ -28,7 +28,7 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 
 ---
 
-### Projetos
+### Projetos (Clique para ver)
 
 [![Simulação de Brute Force e mitigação](https://img.shields.io/badge/Simulação_de_Brute_Force_e_mitigação-C1272D?style=for-the-badge&logo=Splunk&logoColor=white)](https://github.com/mttsdev/brute-force-e-mitigacao)
 
@@ -44,7 +44,7 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 
 ---
 
-### Minha Trilha de Estudos
+### Minha Trilha de Estudos (Clique para ver)
 
 [![HTML5 & CSS3](https://img.shields.io/badge/HTML5_%26_CSS3-E34F26?style=for-the-badge&logo=html5&logo=logo.csslogoColor=white)](https://github.com/mttsdev/html-css)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/mttsdev/Python)
