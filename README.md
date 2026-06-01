@@ -30,7 +30,7 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 
 ### Projetos
 
-[![Simulação de Brute Force e mitigação](https://img.shields.io/badge/Simulação_de_Brute_Force_e_mitigação-C1272D?style=for-the-badge&logo=Splunk&logoColor=white)](mttsdev/brute-force-e-mitigacao/)
+[![Simulação de Brute Force e mitigação](https://img.shields.io/badge/Simulação_de_Brute_Force_e_mitigação-C1272D?style=for-the-badge&logo=Splunk&logoColor=white)](https://github.com/mttsdev/brute-force-e-mitigacao)
 
 [![Varreduras de Portas com Nmap](https://img.shields.io/badge/Varreduras_de_Portas_com_Nmap-005FB8?style=for-the-badge&logo=kali-linux&logoColor=white)](https://github.com/mttsdev/Varredura-de-portas-com-nmap)
 
