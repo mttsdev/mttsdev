@@ -35,7 +35,7 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 
 [![Varreduras de Portas com Nmap](https://img.shields.io/badge/Varreduras_de_Portas_com_Nmap-005FB8?style=for-the-badge&logo=kali-linux&logoColor=white)](https://github.com/mttsdev/Varredura-de-portas-com-nmap)
 
-[![Limpeza de Hardware](https://img.shields.io/badge/Limpeza_de_Hardware-4A5568?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mttsdev/limpeza-hardware)
+[![Limpeza Básica de Hardware](https://img.shields.io/badge/Limpeza_Básica_de_Hardware-4A5568?style=for-the-badge&logo=amd&logoColor=white)](https://github.com/mttsdev/limpeza-hardware)
 
 [![Carrinho movido a Bluetooth feito no Arduino](https://img.shields.io/badge/Carrinho_movido_a_Bluetooth_feito_no_Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://github.com/mttsdev/Carrinho-Bluetooth)
 
