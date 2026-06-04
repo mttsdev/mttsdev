@@ -21,6 +21,10 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 ![Windows Server](https://img.shields.io/badge/Kali_Linux-0078D6?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Arduino / IoT](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
+**Frameworks:**<br>
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)
+
 **Desenvolvimento & Automação:**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash_Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -51,6 +55,7 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/mttsdev/Python)
 [![Bash_Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/mttsdev/Bash-Scripting)
 [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=green)](https://github.com/mttsdev/Splunk)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)](https://github.com/mttsdev/Mitre-Att&ck)
 
 ---
 
