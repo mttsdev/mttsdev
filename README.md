@@ -50,6 +50,7 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 [![HTML5 & CSS3](https://img.shields.io/badge/HTML5_%26_CSS3-E34F26?style=for-the-badge&logo=html5&logo=logo.csslogoColor=white)](https://github.com/mttsdev/html-css)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/mttsdev/Python)
 [![Bash_Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/mttsdev/Bash-Scripting)
+[![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=green)](https://github.com/mttsdev/Splunk)
 
 ---
 
