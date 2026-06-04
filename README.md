@@ -55,10 +55,6 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 
 ### Desempenho & Atividade
 
-<div align="center">
-  <a href="https://github.com/mttsdev">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mttsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas de mttsdev" height="195px" /> <br><br>
-  </a>
   <a href="https://github.com/mttsdev">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mttsdev&theme=dracula&hide_border=true" alt="Streak de Contribuições de mttsdev" height="195px" />
   </a>
