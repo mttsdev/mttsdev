@@ -11,7 +11,7 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 
 ### Tecnologias e Ferramentas
 
-**Cibersegurança & Defesa:**<br>
+**Monitoramento:**<br>
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=green)
 ![Wazuh](https://img.shields.io/badge/Wazuh-FFFFFF?style=for-the-badge&logo=Wazuh&logoColor=lightblue)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
