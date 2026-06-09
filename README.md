@@ -47,6 +47,8 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 
 [![Scripts](https://img.shields.io/badge/Scripts-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/mttsdev/Bash-Scripting)
 
+[![DNS Tunneling](https://img.shields.io/badge/DNS_Tunneling-8000FF?style=for-the-badge&logoColor=white)](https://github.com/mttsdev/DNS-Tunneling)
+
 ---
 
 ### Minha Trilha de Estudos (Clique para ver)
