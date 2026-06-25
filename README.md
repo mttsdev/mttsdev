@@ -13,7 +13,6 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 
 **Monitoramento:**<br>
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=green)
-![Wazuh](https://img.shields.io/badge/Wazuh-FFFFFF?style=for-the-badge&logo=Wazuh&logoColor=lightblue)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
 
 **Sistemas & Infraestrutura:**<br>
@@ -25,7 +24,11 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)](https://github.com/mttsdev/Mitre-Attack)
 
-**Desenvolvimento & Automação:**<br>
+**Práticas:**<br>
+![Google_Skills](https://img.shields.io/badge/Google_Skills-FFFFFF?style=for-the-badge&logo=googlecloud&logoColor=darkgreen)
+
+
+**Linguagens:**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash_Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,6 +61,7 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 [![Bash_Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/mttsdev/Bash-Scripting)
 [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=green)](https://github.com/mttsdev/Splunk)
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)](https://github.com/mttsdev/Mitre-Attack)
+[![Google_Skills](https://img.shields.io/badge/Google_Skills-FFFFFF?style=for-the-badge&logo=googlecloud&logoColor=darkgreen)](https://github.com/mttsdev/google-skills)
 
 ---
 
@@ -67,6 +71,7 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
   <a href="https://github.com/mttsdev">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mttsdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas de mttsdev" height="195px" /> <br><br>
   </a>
+</div>
 
 ---
 
