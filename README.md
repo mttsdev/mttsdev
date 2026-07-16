@@ -3,7 +3,7 @@
 ### Sobre Mim
 Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e transição de carreira voltada para operações de **SOC Analyst N1** e **Suporte Técnico**. Acredito em uma segurança ágil, fundamentada em automação e com foco em um atendimento humanizado para a resolução de incidentes.
 
--  Graduando em **Ciência da Computação** pela FMU (Conclusão: 12/2029)
+-  Graduando em **Ciência da Computação** pela FMU
 -  Formação em **Cibersegurança** pela Alura
 -  Leitor diário do *The Hacker News* para conhecimento do mundo de cibersegurança e evolução de ataques.
 
