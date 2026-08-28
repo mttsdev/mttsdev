@@ -25,7 +25,7 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)](https://github.com/mttsdev/Mitre-Attack)
 
 **Práticas:**<br>
-<img src="https://skillicons.dev/icons?i=java" height="40" />
+![TryHackMe](https://img.shields.io/badge/TRYHACKME-FF0000?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 
 **Linguagens:**<br>
