@@ -25,7 +25,7 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)](https://github.com/mttsdev/Mitre-Attack)
 
 **Práticas:**<br>
-![TryHackMe](https://img.shields.io/badge/TryHackMe-FF0000?style=for-the-badge&logo=tryhackme&logoColor=black)
+<img src="https://skillicons.dev/icons?i=java" height="40" />
 
 
 **Linguagens:**<br>
@@ -33,6 +33,7 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 ![Bash_Scripting](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-006400?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
@@ -62,6 +63,7 @@ Sou estudante de **Cibersegurança** com foco em **Segurança Defensiva** e tran
 [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=green)](https://github.com/mttsdev/Splunk)
 [![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)](https://github.com/mttsdev/Mitre-Attack)
 [![Google_Skills](https://img.shields.io/badge/Google_Skills-FFFFFF?style=for-the-badge&logo=googlecloud&logoColor=darkgreen)](https://github.com/mttsdev/google-skills)
+[![Java](https://img.shields.io/badge/Java-006400?style=for-the-badge&logo=oracle&logoColor=white)](https://github.com/mttsdev/Java)
 
 ---
 
